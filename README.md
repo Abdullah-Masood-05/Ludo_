@@ -12,7 +12,6 @@ A classic Ludo board game implementation using C++ and SFML, featuring multiplay
 - [Project Structure](#project-structure)
 - [Code Overview](#code-overview)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Features ✨
 - 2-6 player support
